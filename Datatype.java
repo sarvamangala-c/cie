@@ -14,6 +14,7 @@ public class Datatype {
         System.out.println("Boolean: "+myBool);
         System.out.println("String: "+str);
         System.out.println("long: "+Long);
+        System.out.println("master branch");
         
     }
 }
